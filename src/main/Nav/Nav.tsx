@@ -1,5 +1,3 @@
-import React from "react"
-import { FaTruck } from "react-icons/fa"
 import Drawer from "./components/Drawer"
 import logo from "../../../public/vite.svg"
 
