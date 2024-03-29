@@ -25,6 +25,7 @@
     padding-inline: 10px;
     padding-block: 5px;
     cursor: pointer;
+    overflow: hidden;
 }
 
 .link-hover::before,

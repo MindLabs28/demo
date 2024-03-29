@@ -24,10 +24,10 @@ const Offers = () => {
   return (
     <main className="">
       <div className="pl-5 pt-5">
-        <h3 className="text-primary text-[1.2rem] font-semibold">
+        <h3 className="text-primary text-[1.5rem] font-semibold text-center">
           What We Offer
         </h3>
-        <h2 className="text-secondary font-semibold text-[2rem]">
+        <h2 className="text-secondary font-bold text-[2rem] text-center">
           We Leave Your Car Looking Clean
         </h2>
       </div>

@@ -9,7 +9,7 @@ function App() {
       <section className="grid grid-rows-[auto,1fr] h-svh">
         <Nav />
         <div className="h-full bg-truck-wash bg-cover bg-top bg-image relative">
-          <div className="max-w-[650px] relative top-[15%] left-[5%] space-y-3">
+          <div className="max-w-full md:max-w-[650px] relative top-[15%] ml-[5%] space-y-3">
             <h2 className="text-accent font-bold text-lg">
               Ultra Clean Car Wash - Monthly Car Wash Plans Near Kansas City
             </h2>

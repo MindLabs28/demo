@@ -11,7 +11,8 @@ export default {
         font: "#EEF1F2",
       },
       backgroundImage: {
-        "truck-wash": "url('./src/assets/bg.jpg')",
+        "truck-wash":
+          "url('https://github.com/pathikcomp/images/blob/main/bg.jpg?raw=true')",
       },
     },
   },
