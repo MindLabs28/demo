@@ -1,4 +1,4 @@
-import { Box, Button, Divider, Drawer as Dr } from "@mui/material"
+import { Box, Button, Drawer as Dr } from "@mui/material"
 import React from "react"
 import { CgMenuRightAlt } from "react-icons/cg"
 import { BiLogIn } from "react-icons/bi"
