@@ -33,7 +33,7 @@ const Offers = () => {
       </div>
       <section
         ref={scrollRef}
-        className=" flex justify-around py-6 transition-all duration-[0.8s] translate-x-[-70%] delay-200 opacity-0"
+        className=" sm:flex sm:justify-around py-6 transition-all duration-[0.8s] translate-x-[-70%] delay-200 opacity-0 grid grid-cols-2 grid-rows-2 gap-5"
       >
         <Card
           color="#ec1254"
